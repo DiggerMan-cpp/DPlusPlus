@@ -1,0 +1,7 @@
+
+
+function openai(api)
+{
+	Dstring answer = DPP.ChatGpt(api)
+	return answer
+}
